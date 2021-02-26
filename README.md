@@ -1,2 +1,2 @@
 # hangman_game
-a hangman game I built 
+Open ps3_hangman.py and run it in an IDE to play the game

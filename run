@@ -1,0 +1,9 @@
+#!/bin/bash
+
+while true
+do
+	python ps3_hangman.py 
+	echo -e "\n\n\nPress any key to start a new game"
+	read -n1 
+	clear
+done
